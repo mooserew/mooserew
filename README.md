@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Pedro, a 19-year-old student from Portugal 🇵🇹, currently studying Cybersecurity at university 🛡️.
+👋 Hi! I'm Pedro, a 19-year-old student from Portugal 🇵🇹.
 
 
 ## 🌐 Socials:
