@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Pedro, a 19-year-old student from Lisbon, Portugal 🇵🇹.
+👋 Hi! I'm Pedro, a 19-year-old student from Lisbon, Portugal 🇵🇹, with a special love for music and technology.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedrodmf_) 
